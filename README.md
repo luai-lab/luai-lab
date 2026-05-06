@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm Luai a final-year Electrical Engineer @ HUJI  
+---
 
-<!--
-**luai-lab/luai-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 I also write here (more personal, less polished):  
+https://sites.google.com/view/quantumghoul/home  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/luai-zahalqa-19ab9b2b9  
+- Email: luai.inbox@gmail.com
+
+---
+
